@@ -13,7 +13,7 @@ Please explore my projects to see examples of my work.
 
 ## Projects
 
-### [Diabetes Prediction](https://github.com/lorimcco/Diabetes-Project)
+### [Diabetes Classification](https://github.com/lorimcco/Diabetes-Project)
 
 **Python (Pandas, Scikit-Learn), Tableau**
 
