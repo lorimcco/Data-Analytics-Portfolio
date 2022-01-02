@@ -35,6 +35,13 @@ Dataset: [Kaggle Board Games](https://www.kaggle.com/andrewmvd/board-games)
 
 Use mobile game company data from a relational database with four tables to determine the 30-day rolling retention rate. Analyze in-game spending trends of retained vs non-retained players.
 
+### [COVID-19 Vaccine Equity](https://github.com/lorimcco/Covid-19-Vaccine-Equity-Project)
+
+**Tableau**
+
+Analyze and visualize trends in COVID-19 vaccination rates around the world, highlighting differences between continents and countries of different income levels
+
+Dataset: [Our World in Data COVID-19 Data](https://github.com/owid/covid-19-data/tree/master/public/data)
 
 ## Education
 
