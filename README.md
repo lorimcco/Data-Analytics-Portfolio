@@ -8,7 +8,7 @@ My background as a math educator combines mathematical fluency with engaging pre
 
 To facilitate my career change, I took a Data Analytics Immersive Bootcamp from Juno College of Technology. This full-time 9-week program covers all elements of the ETL pipeline. Specifically, I honed skills in Google Sheets, SQL, Tableau, and Python (including Python libraries NumPy, Pandas, Seaborn and Scikit-Learn). 
 
-Please explore my projects to see examples of my work.
+Please explore my projects to see samples of my work.
 
 
 ## Projects
@@ -45,28 +45,25 @@ Dataset: [Our World in Data COVID-19 Data](https://github.com/owid/covid-19-data
 
 ## Education
 
-### Certificate, Data Analytics Immersive Bootcamp
-#### Juno College of Technology
-Oct 2021 - Dec 2021
+### Certificate, Data Analytics Immersive Bootcamp  
+**Juno College of Technology**  
+Oct 2021 - Dec 2021  
+Juno is a Private Career College located in downtown Toronto that runs 9-week full-time bootcamps to train data analysts in the most up-to-date skills, including Python, Python Libraries (NumPy, Pandas, Seaborn, Scikit-Learn), Tableau, SQL, and Google Sheets. In small classes with a 10:1 ratio of students to instructors, bootcamp students complete 315+ hours of learning and many additional hours out of class, preparing them to land jobs as Data Analysts after graduation.
 
-Juno is a Private Career College located in downtown Toronto that runs 9-week full-time bootcamps to train data analysts in the most up-to-date skills, including Python & Python Libraries, Tableau, and SQL. In small classes with a 10:1 ratio of students to instructors, bootcamp students complete 315+ hours of learning and many additional hours out of class, preparing them to land jobs as Data Analysts after graduation.
-
-### Introductory Data Analytics Course
-#### Juno College of Technology
-May 2021 - Jul 2021
-
+### Introductory Data Analytics Course  
+**Juno College of Technology**  
+May 2021 - Jul 2021  
 Introduction to Tableau, SQL and spreadsheets for data analytics
 
-### Bachelor of Education
-Secondary Education, with Distinction; Major: Mathematics; Minor: Art
-#### University of Alberta
-Sep 1997 - Apr 2001
+### Bachelor of Education  
+**University of Alberta**  
+Sep 1997 - Apr 2001  
+Secondary Education, with Distinction  
+Major: Mathematics  
+Minor: Art
 
+## Contact Me
 
-## Contact
-
-Email: lorien.mccomb@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/lorien-mccomb-166784217/)
-
+Email: lorien.mccomb@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/lorien-mccomb-166784217/)  
 Twitter: [@lorien_mccomb](https://twitter.com/lorien_mccomb)
